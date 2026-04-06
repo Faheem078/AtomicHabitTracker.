@@ -3,8 +3,8 @@ title: AtomicHabitTracker
 emoji: 🚀
 colorFrom: gray
 colorTo: yellow
-sdk: gradio
-sdk_version: 6.11.0
+sdk: streamlit
+sdk_version: 1.53.1
 app_file: app.py
 pinned: false
 license: mit
